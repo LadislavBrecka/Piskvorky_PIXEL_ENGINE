@@ -3,4 +3,4 @@ I made this game while I was self taughting programming in C++. My first program
 
 Your mission is to have 4 points in a straight line, vertically, horizontally or diagonally.
 
-![Screenshot](images/game.png)
+![Optional Text](images/game.png)
